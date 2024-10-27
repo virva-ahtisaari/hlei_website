@@ -1,0 +1,81 @@
+baseURL: "https://virva-ahtisaari.github.io/hlei_website/" 
+title: Han Lei
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+
+params:
+    description: "I am a PhD student at McGill University."
+    author: Han Lei
+    DateFormat: "October 2024"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Han Lei
+          subtitle: "I am a PhD student in astrophysics at McGill University, supervised by Prof. Tracy Webb. My research focuses on multi-wavelength observations of distant galaxies in the Universe, aiming to reveal the history of galaxy evolution."
+          imageUrl: "headshot.jpg"
+          imageWidth: 160
+          imageHeight: 160
+          buttons:
+            - name: About me
+              url: aboutme/
+            - name: Research
+              url: research/
+            - name: Publications
+              url: pub/
+            - name: Outreach
+              url: outreach/
+
+    socialIcons:
+        - name: CV
+          url: cvtest.pdf
+        - name: Email
+          url: mailto:han.lei@mail.mcgill.ca
+        - name: Location
+          url: location/
+        - name: GitHub
+          url: https://github.com/virva-ahtisaari
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Han Lei"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
