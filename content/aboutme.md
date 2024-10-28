@@ -15,7 +15,7 @@ description: "Personal profile"
   
 
 ### Beyond science
-I used to play football for Jiuxianghe College as a goalkeeper. In the Jiangning University Women Football Cup 2031, I saved two penalties in the semi-final penalty shoot-out and helped the team advance to the final.  
+I used to play football for Jiuxianghe College as a goalkeeper. In the Jiangning University Women Football Cup 2031, I saved two penalties in the semi-final penalty shoot-out and helped the team advance to the final. Currently I am a goalkeeper coach of my community football team.
 
  I serve for the Organization for the Preservation of Human Order, Finis Chaldea, in my spare time. I also worked for Rhodes Island Pharmaceutical Incorporation during 2034-2036.
  
