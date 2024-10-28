@@ -16,6 +16,6 @@ Equally pressing is the challenge of developing effective defense strategies aga
 Through interdisciplinary collaboration and innovative research, I seek to advance our understanding of these critical issues, ensuring that humanity is well-prepared for whatever challenges lie ahead in the cosmos.
 
 
-##### References
+### References
 [^1]: [Feasibility Study of the Wandering Earth Project. **H. Lei** et al., *Science*.](https://en.wikipedia.org/wiki/The_Wandering_Earth_(novella))
 [^2]: [Trajectory Analysis and Position Calculation of the Trisolaran Fleet. **H. Lei** et al., *Nature*.](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel))

@@ -14,3 +14,6 @@ During these outreach efforts, I aimed to raise awareness about the complex dyna
 In 2049, I took on the esteemed role of judge for the Wallfacer Project, a unique initiative designed to harness the brightest minds to devise ingenious strategies for humanity's survival. This experience allowed me to witness firsthand the innovative ideas and collaborative spirit that emerged from the project.
 
 My passion for astrophysics, combined with my commitment to public outreach, drives my ongoing efforts to bridge the gap between science and society. I believe that informed citizens are crucial for effective decision-making in planetary defense, and I remain dedicated to empowering individuals with knowledge about the universe and our place within it. Through continued outreach, I aspire to inspire future generations to engage with the wonders of astrophysics and to prepare for the challenges that lie ahead.
+
+Below is a video on the Wallfacer Project:
+{{< youtube gYwBFzSDh4o >}}
