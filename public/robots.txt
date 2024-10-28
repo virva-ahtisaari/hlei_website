@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: /
-Sitemap: http://localhost:59616/hlei_website/sitemap.xml
+Disallow:
+Sitemap: https://virva-ahtisaari.github.io/hlei_website/sitemap.xml
