@@ -11,6 +11,8 @@ My research interests lie at the intersection of theoretical astrophysics and pr
 
 ## Wandering Earth
 
+<img src="wanderingearth.gif" align="left">
+
 The Wandering Earth Project captivates me due to its ambitious vision of relocating humanity to ensure survival in the face of astronomical threats. This project raises fundamental questions about the feasibility of large-scale planetary engineering, the sociopolitical ramifications of such an endeavor, and the technological innovations required to make it a reality. My research explores the potential methods for propulsion and navigation on a cosmic scale, as well as the ecological and ethical considerations of moving entire populations. I aim to contribute to the theoretical frameworks that underpin these massive undertakings, blending astrophysical modeling with environmental science to assess the long-term implications of such a migration.
 
 ## Defense strategies against the Trisolaran fleet
