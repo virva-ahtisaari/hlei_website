@@ -21,4 +21,4 @@ I used to play football for Jiuxianghe College as a goalkeeper. In the Jiangning
  
  ### CV
  
-{{< pdfReader "cvtest.pdf" >}}
+{{< pdfReader "cvfake.pdf" >}}
