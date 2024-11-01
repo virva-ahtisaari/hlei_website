@@ -50,7 +50,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cvtest.pdf
+          url: cvfake.pdf
         - name: Email
           url: mailto:han.lei@mail.mcgill.ca
         - name: Location
